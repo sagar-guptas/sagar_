@@ -43,7 +43,7 @@ nav li a {
     padding: 30px;
 }
 nav ul li{
-    padding: 0 18px;
+    padding: 0 16px;
     color: black;
     font-weight: bolder;
     cursor: pointer;
@@ -136,6 +136,10 @@ h1#ii {
         text-decoration: none;
         color: #000000;
         padding: 0px;
+    }
+    nav ul li{
+        padding: 0 10px;
+        color: black;
     }
     .main{
          flex-wrap: wrap;
